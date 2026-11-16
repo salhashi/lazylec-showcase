@@ -2,6 +2,10 @@
 
 Folio is a lecture notebook I built to make it easier to study from recordings and slides. It transcribes audio on my Mac using Whisper large-v3, then generates notes that link back to the relevant slide or transcript passage.
 
+![Folio showing notes beside a highlighted transcript passage for a sample lecture on breadth-first search](images/breadth-first-search.png)
+
+*Sample lecture data. Selecting a note’s citation highlights the corresponding transcript passage.*
+
 ## How it works
 
 1. Create a lecture, import slides, and record or upload audio.
